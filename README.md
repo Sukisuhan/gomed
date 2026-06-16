@@ -1,2 +1,2 @@
 # gomed
-Global medical valur travel
+Global medical value travel services-based industry
